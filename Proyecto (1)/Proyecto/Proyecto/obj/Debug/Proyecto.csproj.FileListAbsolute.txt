@@ -1,0 +1,665 @@
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\walmart\Desktop\Proyecto Integrador\POO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Estatus_Empledo.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.dll
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\walmart\Desktop\mex\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarColonia.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Empleado.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Gerente.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\carri\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarCiudad.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarColonia.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoHombres.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoMujeres.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Empleado.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Gerente.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\walmart\Downloads\Progra bueno\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.LblAgregarEstado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarCiudad.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarColonia.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.LblAgregarEstado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoHombres.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoMujeres.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Empleado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\Progra bueno ultima modificacion\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarEdificio.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarCiudad.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarColonia.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarEdificio.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.LblAgregarEstado.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoHombres.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoMujeres.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Empleado.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marco Pat\Desktop\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\stdole.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Guna.UI.pdb
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarCiudad.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarColonia.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarEdificio.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.LblAgregarEstado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.AgregarFoto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoHombres.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.BañoMujeres.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Baño.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\muc_ups_29_02_2020.GUI.Checklist_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Integrador_Baños.GUI.Empleado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Inicio_Sesion.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.MenuAdmin.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\RegistroBaño.Registro_Baño.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Cubiculo.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Empleado.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Registro_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Baños.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Cubiculo.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.GUI.Reporte_Producto.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\vladi\Desktop\documentos nuevo\utm\2 cuatro\POO\CORRECION FINAL\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
